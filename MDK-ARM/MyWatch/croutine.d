@@ -1,0 +1,14 @@
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mywatch\croutine.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\croutine.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+mywatch\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

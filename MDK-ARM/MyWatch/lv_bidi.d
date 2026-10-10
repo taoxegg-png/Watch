@@ -1,0 +1,17 @@
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_bidi.c
+mywatch\lv_bidi.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_bidi.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_internal.h
+mywatch\lv_bidi.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_kconfig.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../../../lv_conf.h
+mywatch\lv_bidi.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_txt.h
+mywatch\lv_bidi.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_area.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../font/lv_font.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../font/lv_symbol_def.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_printf.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_types.h
+mywatch\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../misc/lv_mem.h
+mywatch\lv_bidi.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h

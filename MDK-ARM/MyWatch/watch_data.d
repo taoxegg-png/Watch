@@ -1,0 +1,16 @@
+mywatch\watch_data.o: ..\APP\Src\watch_data.c
+mywatch\watch_data.o: ../APP/Inc/watch_data.h
+mywatch\watch_data.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mywatch\watch_data.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\watch_data.o: ../Core/Inc/FreeRTOSConfig.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mywatch\watch_data.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mywatch\watch_data.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h

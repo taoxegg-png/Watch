@@ -1,0 +1,13 @@
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_color.c
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_color.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_internal.h
+mywatch\lv_color.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_kconfig.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\../../../lv_conf.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_assert.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_log.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_types.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_mem.h
+mywatch\lv_color.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\lv_color.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mywatch\lv_color.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_math.h

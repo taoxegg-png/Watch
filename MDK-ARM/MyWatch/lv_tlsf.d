@@ -1,0 +1,13 @@
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_tlsf.c
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_internal.h
+mywatch\lv_tlsf.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_kconfig.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\../../../lv_conf.h
+mywatch\lv_tlsf.o: E:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_tlsf.h
+mywatch\lv_tlsf.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_mem.h
+mywatch\lv_tlsf.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_types.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_log.h
+mywatch\lv_tlsf.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_assert.h

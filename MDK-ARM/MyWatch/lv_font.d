@@ -1,0 +1,16 @@
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\lv_font.c
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\lv_font.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../lv_conf_internal.h
+mywatch\lv_font.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../lv_conf_kconfig.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../../../lv_conf.h
+mywatch\lv_font.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\lv_font.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\lv_symbol_def.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../misc/lv_area.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../misc/lv_utils.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../misc/lv_log.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../misc/lv_types.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../misc/lv_assert.h
+mywatch\lv_font.o: ..\Middlewares\Third_Party\lvgl\src\font\../misc/lv_mem.h
+mywatch\lv_font.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h

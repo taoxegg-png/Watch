@@ -1,0 +1,16 @@
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\gifdec.c
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\gifdec.h
+mywatch\gifdec.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/../../../lv_conf.h
+mywatch\gifdec.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
+mywatch\gifdec.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\gifdec.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_color.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
+mywatch\gifdec.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\gif\../../../misc/lv_math.h

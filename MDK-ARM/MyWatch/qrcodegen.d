@@ -1,0 +1,9 @@
+mywatch\qrcodegen.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\qrcode\qrcodegen.c
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\assert.h
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mywatch\qrcodegen.o: ..\Middlewares\Third_Party\lvgl\src\extra\libs\qrcode\qrcodegen.h
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\qrcodegen.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h

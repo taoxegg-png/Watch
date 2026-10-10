@@ -1,0 +1,12 @@
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_async.c
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_async.h
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_types.h
+mywatch\lv_async.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_mem.h
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_internal.h
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_kconfig.h
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\../../../lv_conf.h
+mywatch\lv_async.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\lv_async.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mywatch\lv_async.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_timer.h
+mywatch\lv_async.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h

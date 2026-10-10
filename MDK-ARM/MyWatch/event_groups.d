@@ -1,0 +1,15 @@
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+mywatch\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mywatch\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mywatch\event_groups.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mywatch\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+mywatch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
